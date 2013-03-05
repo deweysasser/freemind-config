@@ -4,5 +4,20 @@ and project management process.
 See mindmaps in the doc directory for the process I use with this
 freemind configuration.
 
+To use this on Windows, go to...
 
+c:\Documents and Settings\%USER%\.freemind
+
+and do a 
+
+   git clone git://github.com/dmsasser/freemind-config.git .
+
+On linux this would be
+
+   cd ~/.freemind
+   git clone git://github.com/dmsasser/freemind-config.git .
+
+WARNING:  if you already have a local patterns.xml (and you likely do), this 
+will fail unless you do some other magic.  Magic could including removing 
+your local files or something else (I usually just use rsync to move things).
 
