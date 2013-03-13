@@ -4,11 +4,11 @@
 <pattern name="Normal"><pattern_node_background_color/><pattern_node_color value="#000000"/><pattern_node_style/></pattern>
 <pattern name="Action Item "><pattern_node_style/><pattern_icon value="forward"/></pattern>
 <pattern name="Complete"><pattern_node_background_color/><pattern_node_color value="#009900"/><pattern_icon value="button_ok"/></pattern>
+<pattern name="Next Action"><pattern_icon value="go"/></pattern>
+<pattern name="Waiting"><pattern_icon value="prepare"/></pattern>
+<pattern name="Blocked"><pattern_icon value="stop"/></pattern>
 <pattern name="Hot"><pattern_node_color value="#ff9900"/><pattern_icon value="bookmark"/><pattern_edge_style/></pattern>
 <pattern name="Critical"><pattern_node_background_color/><pattern_node_color value="#ff3300"/><pattern_icon value="up"/></pattern>
-<pattern name="Blocked"><pattern_icon value="stop"/></pattern>
-<pattern name="Waiting"><pattern_icon value="prepare"/></pattern>
-<pattern name="Next Action"><pattern_icon value="go"/></pattern>
 <pattern name="Superdivision"><pattern_node_background_color/><pattern_node_color value="#003399"/><pattern_node_font_size value="20"/></pattern>
 <pattern name="Client"><pattern_node_background_color/><pattern_node_color value="#009900"/><pattern_node_font_size value="18"/></pattern>
 <pattern name="Project"><pattern_node_background_color/><pattern_node_color value="#990000"/><pattern_node_font_size value="16"/></pattern>
